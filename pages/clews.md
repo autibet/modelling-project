@@ -22,12 +22,10 @@ hero:
 
 intro:
   enabled: true
-  align: center
-  heading: "Understanding CLEWS"
+  align: left
+  heading: "Understanding CLEWs"
   sub_heading: |
-    Climate, Land, Energy and Water systems (CLEWS) models are tools for simultaneous consideration of food, energy and water security. They are designed to assess how production and use of these resources may contribute to climate change, and how climate change may affect these resource systems.
-
-    By comparing different technologies and value chains, the model can identify pressure points and indicate synergies and trade-offs to reach development goals. CLEWS can analyze policy decisions on issues such as climate action, competition for water and agricultural modernization.
+    CLEWs stands for Climate, Land, Energy, and Water systems. It is a framework (a set of rules) that can be applied with a wide range of modelling tools, but is not a model in itself. Examples of models used in CLEWs analyses include the OSeMOSYS [https://osemosys.readthedocs.io/en/latest/manual/Introduction.html], LEAP [https://www.sei.org/tools/leap-low-emissions-analysis-platform/], WEAP [https://www.sei.org/tools/weap/], MESSAGE [https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1718_web.pdf], or TIMES [https://iea-etsap.org/times-the-integrated-markal-efom-system/].
 
     <div style="margin-bottom: 2rem;"></div>
   buttons:
